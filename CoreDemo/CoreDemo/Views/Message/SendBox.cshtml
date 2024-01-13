@@ -1,0 +1,32 @@
+﻿@model List<Message2>
+@{
+    ViewData["Title"] = "SendBox";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<h1>Giden Kutusu</h1>
+
+<table class="table table-border table-hover bg-facebook my-3">
+    <tr>
+        <th>#</th>
+        <th>Konu</th>
+        <th>Alıcı</th>
+        <th>Tarih</th>
+        <th>Mesajı Aç</th>
+        <th>Mesajı Sil</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.MessageID</th>
+            <td>@item.Subject</td>
+            <td>@item.ReceiverWriter.NameSurname</td>
+            <td>@(((DateTime)item.MessageDate).ToString("dd-MMM-yyyy"))</td>
+            <td> <a asp-controller="Message" asp-action="MessageDetails" asp-route-id="@item.MessageID" class="btn btn-outline-warning btn-sm">Mesajı Aç</a> </td>
+            <td> <a asp-controller="Message" asp-action="SendBoxMessageDelete" asp-route-id="@item.MessageID" class="btn btn-outline-danger btn-sm">Sil</a></td>
+        </tr>
+    }
+</table>
+
+<a asp-controller="Message" asp-action="SendMessage" class="btn btn-outline-primary">Yeni Mesaj Oluştur</a>
+

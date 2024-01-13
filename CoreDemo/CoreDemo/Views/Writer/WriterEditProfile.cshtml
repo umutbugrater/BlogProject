@@ -1,0 +1,56 @@
+﻿@model UserUpdateViewModel
+
+@{
+    ViewData["Title"] = "WriterEditProfile";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Yazar Profil Bilgileri Düzenleme</h4>*
+            <br>
+
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="exampleInputName1">Yazar Ad Soyad</label>
+                    <input type="text" asp-for="@Model.namesurname" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Kullanıcı Adı</label>
+                    <input type="text" asp-for="@Model.username" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Mail Adresi</label>
+                    <input type="text" asp-for="@Model.mail" class="form-control" />
+                </div>
+
+                <div class="form-check">
+                    <input type="checkbox" id="disableRow[]" asp-for="@Model.ChangePassword"> 
+                    <label>Şifremi Değiştirmek İstemiyorum</label> <br />
+                    <label for="exampleInputEmail3">Yeni Şifreniz</label>
+                    <input type="text" asp-for="@Model.password" class="form-control" />
+                </div>
+
+                <div class="form-check">
+                    <label for="exampleInputEmail3">Resim Değiştirme</label>
+                    <input type="text" name="img" class="form-control" />
+                </div>
+
+                <button type="submit" class="btn btn-gradient-primary mr-2">Güncelle</button>
+                <button class="btn btn-light" asp-action="Index" asp-controller="Dashboard">İptal</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    $("input:checkbox[id^='disableRow']").prop("checked", false);
+
+    $("input:checkbox[id^='disableRow']").on("change", function () {
+        $(this).closest("div").find("input:text, select").prop("disabled", this.checked);
+    });
+</script>

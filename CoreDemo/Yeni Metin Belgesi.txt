@@ -1,0 +1,4 @@
+Veriyi apiye gönderirken serialize olarak göndeririz. Veriyi alırken deserialize yaparak alırız.
+
+Deserialize ; JSON verilerini .Net nesnesine dönüştürmeye yarar
+Serialize ; .Net nesnesini JSON verisine dönüştürmeye yarar.

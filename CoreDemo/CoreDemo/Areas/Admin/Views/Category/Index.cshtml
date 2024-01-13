@@ -1,0 +1,94 @@
+﻿@using EntityLayer.Concrete
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@model IPagedList<Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>Kategori Listesi</h1>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+@{
+    var id = 0;
+}
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Kategori Adı</th>
+        <th>Pasif Yap</th>
+        <th>Aktif Yap</th>
+        <th>Düzenle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        id = item.CategoryID;
+        <tr>
+            <th>@item.CategoryID</th>
+            <td>@item.CategoryName</td>
+            <td> <a href="/Admin/Category/CategoryDelete/@item.CategoryID" id="DeleteBtn" onclick="return confirm('Silmek istediğinize Emin misiniz');" class="btn btn-info">Pasif Yap</a>  </td>
+
+          @*<td>
+                <button type="button" class="btn btn-outline-danger btn-sm" data-toggle="modal" data-target="#Sil_@item.CategoryID">
+                    Pasif Yap
+                </button>
+            </td> *@
+
+
+            <td> <a href="#" class="btn btn-warning">Aktif Yap</a>  </td>
+            <td> <a href="#" class="btn btn-success">Düzenle</a>  </td>
+
+           @*  <div class="modal fade" id="Sil_@item.CategoryID" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLongTitle">Kategori Sil</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <h4>Kategoriyi silmek istiyor musunuz?</h4>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-info mx-4" data-dismiss="modal">Vazgeç</button>
+                            @Html.ActionLink("Sil", "CategoryDelete", new { id = @item.CategoryID }, new { @class = "btn btn-danger mx-4" })
+                        </div>
+                    </div>
+                </div>
+            </div> *@
+
+        </tr>
+    
+    }
+
+</table>
+<a href="Category/AddCategory" class="btn btn-primary">Yeni Kategori</a>
+@* <a href="/Admin/Category/AddCategory" class="btn btn-primary">Yeni Kategori</a> *@
+<br />
+<br />
+@Html.PagedListPager((IPagedList)Model,page=>Url.Action("Index",new {page}))
+
+@* <script>
+    $().click(function () {
+        swal({
+            title: "Emin misiniz?",
+            text: "Kategoriyi silmek istiyor musunuz ?",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true,
+        })
+            .then((willDelete) => {
+                if (willDelete) {
+                    swal("Kategoriniz kalıcı olarak SİLİNDİ", {
+                        icon: "success",
+                    });
+                } else {
+                    swal("Kategori silme işlemi İPTAL EDİLDİ");
+                }
+            });
+    }); *@
+</script>

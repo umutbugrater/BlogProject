@@ -1,0 +1,72 @@
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo - Kopya\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemoDegisiklik\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemoDegisiklikKendimYaptımSonHali\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
