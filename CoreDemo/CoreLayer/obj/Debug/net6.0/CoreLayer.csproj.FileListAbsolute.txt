@@ -31,3 +31,14 @@ C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\CoreLa
 C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
 C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
 C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll

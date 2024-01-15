@@ -70,3 +70,15 @@ C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\Entity
 C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
 C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
 C:\Users\umutb\source\repos\MCSD\Youtube_MuratYücedağ\CoreDemo\CoreDemo\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\umutb\Documents\GitHub\BlogProject\CoreDemo\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

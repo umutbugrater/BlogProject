@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\umutb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

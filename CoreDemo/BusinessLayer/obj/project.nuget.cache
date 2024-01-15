@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djzyJgPTLMWHtNh44FZe0bcTsld4QaTyC/mS7PSXiA4SFzaEDKZhRBvxzv9YKqWXHQuJe2bWOr0A90ygXPciLQ==",
+  "dgSpecHash": "btbUDfJGfiHwpzug5lAYTuURK8xohhE5dntTIglCNM6yZMQdOZ7gChcgaf+Ldz+uogf80JgCpwxiUHfAGNzVvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umutb\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\umutb\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

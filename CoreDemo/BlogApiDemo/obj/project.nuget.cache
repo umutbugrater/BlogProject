@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUb9C3FZ6Dicc8JyizeDgtuARP/z5263ose+AQDl0CECGQk6aa3ULEJ011GkR4Ixk7XulpOQFv3prhkCMZSDYQ==",
+  "dgSpecHash": "9dYq+PX2vV0mENTtV9n3xRd3R44iznMFcoGAg6+TFyaVypaB4dhTfOjdIsZbCslpE0LhNV0Y9dHV2JFDgCwRow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\BlogApiDemo\\BlogApiDemo.csproj",
+  "projectFilePath": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\BlogApiDemo\\BlogApiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umutb\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\umutb\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

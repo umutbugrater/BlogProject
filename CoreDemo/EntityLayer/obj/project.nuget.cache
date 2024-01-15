@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3bnVsk1xJB6oUqyA63zmilekx56CveTnDOD9CU7G+iOtPaJ1ngC0LSzk8PhwZNQqzJU59Y6ZuNLJ8E8hD09byw==",
+  "dgSpecHash": "jJeKya2mPIu7fMFOyxJzv3slV0tYmciqQYlcO01gJOGV5iq1SA28/6v85P5QXLLhV6jYFGLbzMujlVXowb2MYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umutb\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\umutb\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

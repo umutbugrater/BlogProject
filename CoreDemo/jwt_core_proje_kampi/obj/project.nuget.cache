@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ggcsh5t3TBhSBjZJoxXpB3nd0YEoubFWbwX8p6jqg5rnEeFHbSJDj7v8YDAaPtxiD8i6NTeRO7yx0VxnTgNIjg==",
+  "dgSpecHash": "pQzJD2jk3zR30FN61vrFi0d8qOoDfxFHCjz26j5Nt9n9TJfY8V8GKXy7eHjy9m3rjdarAEsehS2uaKeut7IKbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\jwt_core_proje_kampi\\jwt_core_proje_kampi.csproj",
+  "projectFilePath": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\jwt_core_proje_kampi\\jwt_core_proje_kampi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umutb\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.25\\microsoft.aspnetcore.authentication.jwtbearer.6.0.25.nupkg.sha512",
     "C:\\Users\\umutb\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

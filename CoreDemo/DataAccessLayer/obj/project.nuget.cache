@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FjdDrBvJ97h8YnPG52oJwu2AA99Rm/V6RszUcjo8WUKcFR1tZRSGXahArgpcERZFLC2BK2s/LCLNW4B7aA+G2Q==",
+  "dgSpecHash": "lja9sswIAp/B0nJhKFEEH1ukCjENrWyfVRdjhq/p8y13slO19S3uPQQgS+GLVIdrWYL0lGaNaJnO1KWeS4dpiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\umutb\\source\\repos\\MCSD\\Youtube_MuratYücedağ\\CoreDemo\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\umutb\\Documents\\GitHub\\BlogProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umutb\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\umutb\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
